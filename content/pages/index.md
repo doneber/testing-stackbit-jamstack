@@ -10,7 +10,7 @@ sections:
       siempre intentando actualizarme a la par de las nuevas tecnologías y
       novedades en el mundo del desarrollo.
     actions:
-      - label: Let's talk
+      - label: Hablemos!
         url: /contact
         style: button
   - section_id: latest-projects
