@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: Welcome to Don Eber page
+    title: Don Eber's page
     content: >
       Desarrollador y programador web, autodidacta, siempre aprendiendo y
       siempre intentando actualizarme a la par de las nuevas tecnologías y
