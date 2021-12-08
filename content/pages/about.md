@@ -31,11 +31,14 @@ seo:
       relativeUrl: true
 layout: page
 ---
+Soy un apasionado del desarrollo y en particular del desarrollo web. Cuando hablamos de código y desarrollo software me interesa bastante las buenas prácticas y las arquitecturas limpias.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
+Intentando llevar una vida lo más saludable posible, haciendo ejercicio, aprendiendo algo de música y leyendo libros de superación personal.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
+Una frase que mas o menos refleja mi última reflexión seria:
 
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
+> Esta bien fallar, pero falla rápido por favor!
 
-*Thank You for reading!*
+Muchas veces tenemos miedo a equivocarnos, y nos quedamos tanto tiempo dudado que hasta ese momento ya nos habríamos equivocado lo suficiente como para encontrar la solución a un determinado problema. En este punto de mi vida considero que debemos fallar lo más que podamos, así jamás tendremos el lujo de quedarnos con la duda.
+
+*Gracias llegar hasta aquí mi estimado lector, saludos!*
